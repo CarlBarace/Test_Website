@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html{
+            background-image: linear-gradient(#3b444b,#353839,	#232b2b);
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        #body {
+            height: 100vh;          
+           
+            color: white;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items:center;
+        }
+        footer{
+            color: white;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align:center;
+        }
+        h1{
+            color:white;
+            padding: 20px 50px;
+            border: solid white 1px;
+            width: 500px;
+            background-color: rgb(30, 215, 96);
+            border-radius: 40px;
+            margin-bottom: 80px;
+        }
+        .list{
+            border-bottom: solid grey 1px;
+            width: 300px;
+            padding-top: 10px;
+          
+        }
+        a{
+            color: white;
+            text-decoration: none;
+            font-size: 20px;
+        }
+        p{
+            font-size:smaller;
+        }
+    </style>
+</head>
+<body>
+    <div id="body">
+        <h1>MY FAVORITE SONGS</h1>
+        {{.Content}}
+        {{ range .Pages }}
+            <div class="list">
+                <a href="{{.URL}}">{{.Title}}</a>
+                <p>{{.Params.artist}}</p>
+            </div>
+        {{end}}
+    </div>
+    <footer>
+        <p>Made by Carl Augustin Barace</p>
+    </footer>
+</body>
+</html>
