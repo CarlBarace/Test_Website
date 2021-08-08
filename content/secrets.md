@@ -72,4 +72,7 @@ I'm gonna give all my __secrets__ away
 All my __secrets__ away  
 All my __secrets__ away  
 ***
+![Waking Up](/WakingUp.png)  
+Album: Waking Up
+
 Click [here](https://en.wikipedia.org/wiki/OneRepublic) to know the artist.

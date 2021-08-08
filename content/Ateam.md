@@ -87,5 +87,8 @@ Angels to fly
 *For angels to fly, to fly, to fly*  
 *Angels to die*  
 ***
-Click [here](https://en.wikipedia.org/wiki/Ed_Sheeran) to know the artist.
-![Example image](/static/Images/Plus.png)
+![Plus Album](/Plus.png)  
+Album: Plus
+  
+  
+Click [here](https://en.wikipedia.org/wiki/Ed_Sheeran) to know the artist.  

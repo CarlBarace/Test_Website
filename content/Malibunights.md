@@ -72,4 +72,7 @@ I can't forget
 I drive, chasing **Malibu nights**  
 Hey, hey, na-na  
 ***
+![Malibu Nights](/MalibuNights.png)  
+Album: Malibu Nights
+
 Click [here](https://en.wikipedia.org/wiki/LANY) to know the artist.
