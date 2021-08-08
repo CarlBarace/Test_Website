@@ -1,12 +1,13 @@
 ---
 title: "Secrets"
 date: 2021-07-15T06:05:17+08:00
-draft: true
+draft: false
 artist: "One Republic"
 ---
 
 {{< youtube qHm9MG9xw1o >}}
 
+###### [Verse 1]  
 I need another story  
 Something to get off my chest  
 My life gets kinda boring  
@@ -16,16 +17,16 @@ From all the truth that I've said
 Come by it honestly I swear  
 Thought you saw me wink, no  
 I've been on the brink  
-
+###### [Chorus]
 So tell me what you want to hear  
 Something that will light those ears  
 I'm sick of all the insincere  
-So I'm gonna give all my secrets away  
+So I'm gonna give all my __secrets__ away  
 This time  
 Don't need another perfect lie  
 Don't care if critics ever jump in line  
-I'm gonna give all my secrets away  
-
+I'm gonna give all my __secrets__ away  
+###### [Verse 2] 
 My God, amazing how we got this far  
 It's like we're chasing all those stars  
 Who's driving shiny big black cars  
@@ -35,38 +36,40 @@ And when a situation rises
 Just write it into an album  
 Send it straight to gold  
 But I don't really like my flow, no  
-
+###### [Chorus]
 So tell me what you want to hear  
 Something that will light those ears  
 I'm sick of all the insincere  
-So I'm gonna give all my secrets away  
+So I'm gonna give all my __secrets__ away  
 This time  
 Don't need another perfect lie  
 Don't care if critics ever jump in line  
-I'm gonna give all my secrets away  
-
-Ooh
-Got no reason, got no shame  
-Got no family I can blame  
-Just don't let me disappear  
-I'ma tell you everything  
-
+I'm gonna give all my __secrets__ away  
+###### [Bridge]
+*Ooh*
+*Got no reason, got no shame*  
+*Got no family I can blame*  
+*Just don't let me disappear*  
+*I'ma tell you everything*  
+###### [Chorus]
 So tell me what you want to hear  
 Something that'll light those ears  
 I'm sick of all the insincere  
-So I'm gonna give all my secrets away  
+So I'm gonna give all my __secrets__ away  
 This time  
 Don't need another perfect lie  
 Don't care if critics ever jump in line  
-I'm gonna give all my secrets away  
+I'm gonna give all my __secrets__ away  
 So tell me what you want to hear  
 Something that'll light those ears  
 I'm sick of all the insincere  
-So I'm gonna give all my secrets away  
+So I'm gonna give all my __secrets__ away  
 This time  
 Don't need another perfect lie  
 Don't care if critics ever jump in line  
-I'm gonna give all my secrets away  
-
-All my secrets away  
-All my secrets away  
+I'm gonna give all my __secrets__ away  
+###### [Outro]
+All my __secrets__ away  
+All my __secrets__ away  
+***
+Click [here](https://en.wikipedia.org/wiki/OneRepublic) to know the artist.
