@@ -11,7 +11,7 @@
             font-family: Verdana, Geneva, Tahoma, sans-serif;
         }
         #body {
-            height: 100vh;          
+            height: 80vh;          
            
             color: white;
             display: flex;
@@ -47,6 +47,9 @@
         p{
             font-size:smaller;
         }
+        .tasks{
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -60,6 +63,20 @@
             </div>
         {{end}}
     </div>
+    <div class="tasks">
+        <h3 style="font-size: 50px; color: whitesmoke">My Daily Task</h3>
+        {{range .Site.Data.tasks}}
+            <div style="background-color: #{{.color}}; width: 600px; margin: auto">
+                <img src="/icon.png" alt="calendar" width="50">
+                <h3 style="color:white">{{.name}}</h3>
+                <p style="color:white">This is my task today -- {{.task}}</p>
+                <img src="/{{.image}}" alt="{{.name}}" width="500"><br>
+                <br>
+            </div>
+            <br>
+        {{end}}
+
+   </div>
     <footer>
         <p>Made by Carl Augustin Barace</p>
     </footer>

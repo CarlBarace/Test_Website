@@ -1,0 +1,44 @@
+{
+    "1":{
+        "name": "Monday",
+        "task":"Check the lights if there are defects",
+        "image":"lights.PNG",
+        "color":"5587a2"
+    },
+    "2":{
+        "name": "Tuesday",
+        "task":"Water the Plants",
+        "image":"plants.PNG",
+        "color":"f6d258"
+    },
+    "3":{
+        "name": "Wednesday",
+        "task":"Play Badminton",
+        "image":"badminton.PNG",
+        "color":"0c4c8a"
+    },
+    "4":{
+        "name": "Thursday",
+        "task":"Buy food and groceries",
+        "image":"groceries.PNG",
+        "color":"ef562d"
+    },
+    "5":{
+        "name": "Friday",
+        "task":"Empty the trash",
+        "image":"trash.PNG",
+        "color":"97d5e0"
+    },
+    "6":{
+        "name": "Saturday",
+        "task":"Clean the house",
+        "image":"clean.PNG",
+        "color":"efcec5"
+    },
+    "7":{
+        "name": "Sunday",
+        "task":"Resting day",
+        "image":"rest.PNG",
+        "color":"88b14b"
+    }
+}
